@@ -4,28 +4,13 @@
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id=ts235 tvg-logo="https://i.postimg.cc/HLJncgQW/20240314-131242.jpg" group-title="Tata Sky", IPL  HINDI 
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1260324/master.m3u8
+#EXTINF:-1 tvg-id=ts235 tvg-logo="https://iili.io/JNbOnUu.jpg" group-title="Tata Sky", IPL  HINDI 
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1060424/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id=ts235 tvg-logo="https://i.postimg.cc/8k74pJFx/20240314-131348.jpg" group-title="Tata Sky", IPL ENGLISH
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1260324/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id=ts24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Tata Sky ",Star Sports 1 Hindi HD
-https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FT/8RL2GPchuqRs81pP50A","kid":"pe1Yz6lPNTOzNYoLd1UwkA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="24" group-title="Airtel" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi
-https://liveb.streamready.in/starsports1hindi/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a6MYrSz/Yjkr9UiaqZCsJg","kid":"olLZivm+O7OJ6FVEpzBM0g"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="2" group-title="Airtel" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD
-https://liveb.streamready.in/starsports1hd/smil:common.smil/manifest.mpd
+#EXTINF:-1 tvg-id=ts235 tvg-logo="https://iili.io/JNbOCle.jpg" group-title="Tata Sky", IPL ENGLISH
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1060424/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34,10 +19,6 @@ https://liveb.streamready.in/starsports1hd/smil:common.smil/manifest.mpd
 http://103.99.249.139/starsport1/index.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id=ts235 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Tata Sky",Star Sports 2 HD
-https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
