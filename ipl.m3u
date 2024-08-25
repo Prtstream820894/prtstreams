@@ -13,8 +13,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=79b340b2b5f7c3c89951daabde7cdf97&key=3e22bc39d22a7f8c3516f6b58b144668
-#EXTINF:-1 tvg-id=ts235 tvg-logo="https://i.postimg.cc/yxcKMdxj/20240324-224352.png" group-title="Tata Sky",Star Sports 2 SD
-https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
+#EXTINF:-1 tvg-id=ts235 tvg-logo="https://serving.photos.photobox.com/6429247581ce8e278a333a4a679ded9a1eb80c91e35fb9c2ffdb0e6d7e76bcc98de6fb52.jpg" group-title="Tata Sky",Star pluse
+http://103.120.172.74:4300
 
 
 #EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket HD" tvg-logo="https://i.postimg.cc/4NRszz2S/20240324-224535.png" group-title="🇲🇾 SPORTS (ASTRO GO)", Astro Cricket HD
