@@ -17,6 +17,10 @@
 <script>
 	
 https://pflix-ts.vercel.app/244.mpd|X-Forwarded-For=59.178.72.184|license_type=clearkey&license_key=https://la.drmlive.au/tp/tpck?id=244&user-agent=third-party
+#EXTINF:-1 tvg-id="3994220" tvg-name="Star Plus Hd" tvg-type="LIVECHANNEL" group-title="Star plus hd"  tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
+http://217.20.112.199/starplushd/index.m3u8
+
+	
 	
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz".mpd
 
