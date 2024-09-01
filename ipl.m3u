@@ -132,3 +132,6 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
 #EXTINF: -1 tvg-id="1000119187" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sony Liv {TechMax}", Star Sports  2 HD
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+
+#EXTINF: -1 tvg-id="1000119187" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/surya-s-saturday-et00409364-1724822761.jpg" group-title="Sony Liv {TechMax}", surya-s-saturday
+https://cdn-z.hls-video.net/media/cloud01/76914207678037f1030b49d38052082c/master.m3u8|referer=https://playa.hls-video.net/
