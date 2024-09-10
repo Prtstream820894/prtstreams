@@ -1,8 +1,4 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=8
-#EXTINF:-1 tvg-id="ts8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",STAR Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
-https://tp-patient.vercel.app/8.mpd
+
 
 #EXTINF:-1 tvg-id="3994220" tvg-name="Star Plus Hd" tvg-type="LIVECHANNEL" group-title="Star plus hd"  tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
 http://217.20.112.199/starplushd/index.m3u8
@@ -133,5 +129,14 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF: -1 tvg-id="1000119187" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sony Liv {TechMax}", Star Sports  2 HD
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
+#EXTINF:-1 tvg-id="ts8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUqAyTqcoc1lWW_xK0QkjDJyV-V6qL9QbLGRDImfpAgQug2-Y2u28I8Og&s=10" group-title="Entertainment",Ptv Sports 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?
+
 #EXTINF: -1 tvg-id="1000119187" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/surya-s-saturday-et00409364-1724822761.jpg" group-title="Sony Liv {TechMax}", surya-s-saturday
 https://cdn-z.hls-video.net/media/cloud01/76914207678037f1030b49d38052082c/master.m3u8|referer=https://playa.hls-video.net/
+
+#EXTINF: -1 tvg-id="1000119187" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpH98O0HzCep6oIZwkrKrLXxPHNB1Vi2aqQ&s" group-title="Sony Liv {TechMax}", The Family Star
+https://broad-wind-0dc0.wr105.workers.dev/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X09UXzMwX3dOXzI4X1ZfMTVfT0RCXzhfWVdFME5ETTRNMkkxTkRfNjRfXzU1X05fMjhfWV8yOF9ZV0UyWV8yOF9NME9XSV8zNF9fODNfXzE1X0lfMzRfWkdWMkwxTjBfOTFfM0pfNjBfWlMwd05DOV8xNV9fOTFfRzkxWkRFd0wwRl8zMF9fOTFfV180N19fMzRfTDJaXzI2X185MV9HUl80N19fODNfXzE1X0VfMjZfVkdfOF9fNDdfTFVaXzhfXzkxX1dfNDdfXzg4X180NV9TMVRfNjRfR0ZfMjNfTFNfMTFfXzIzX01ESTBLUzE3U0dfNDdfXzM0X1pHXzMwX182NV9LXzIzXzFVWldfMTdfMVozVjlMVVIxWVd3XzY1X1FYVl8zMF9fOTlfVzhfNjVfVlc1RF82NF9YUV82NV9UVzkyXzk5X1dVXzY1X1NFVldRXzIzXzAzTV8xNV9Cd0xVVlRfNjRfV0lfMzRfXzkxX1dfNjVfMg==
