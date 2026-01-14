@@ -1,6 +1,21 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #Generated on 1768353430
 
+#EXTINF:-1 tvg-id="1109" group-title="Sports" tvg-logo="https://www.timesbull.com/wp-content/uploads/2026/01/IND-vs-NZ.jpg",IND VS NZ Sports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1768353430~exp=1768439830~acl=/*~hmac=161ff10717b0e4167f72b72fa0321e075eb6d3efcd8b34ed1e624ef66ebc335c"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1768353430~exp=1768439830~acl=/*~hmac=161ff10717b0e4167f72b72fa0321e075eb6d3efcd8b34ed1e624ef66ebc335c&xxx=%7Ccookie=__hdnea__=st=1768353430~exp=1768439830~acl=/*~hmac=161ff10717b0e4167f72b72fa0321e075eb6d3efcd8b34ed1e624ef66ebc335c
+
+#EXTINF:-1 tvg-id="1069" group-title="Education" tvg-logo="https://www.wplt20.com/static-assets/waf-images/b8/bb/7b/1-1/ecMOLZyxw0.jpeg?v=50.15&w=1024", WPL SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1768266662~exp=1768353062~acl=/*~hmac=6a5fa6130a515c6437c0b1afc1a5284a02edebd99ee63a1ef16c6c15d578f444"}
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+
 #EXTINF:-1 tvg-id="1069" group-title="Education" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png",ZEE TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
