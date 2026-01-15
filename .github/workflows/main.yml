@@ -2,8 +2,8 @@ name: Auto Update my.m3u
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Har 1 ghante run
-  workflow_dispatch:     # Manual trigger bhi possible
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-m3u:
