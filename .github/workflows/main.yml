@@ -9,12 +9,16 @@ jobs:
   update-m3u:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Step 1: Checkout the repository
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
+      # Step 2: Download latest M3U from source
       - name: Download Latest M3U
         run: |
           curl -s -o my.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u
 
+      # Step 3: Commit changes if file updated
       - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
