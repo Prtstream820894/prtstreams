@@ -39,6 +39,15 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd?
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd?__hdnea__=st=1768551842~exp=1768638242~acl=/*~hmac=add245a58829fa91adbcc0e33fb61ee35ae00905860614a747d0d3dcf9266f6a&xxx=%7Ccookie=__hdnea__=st=1768551842~exp=1768638242~acl=/*~hmac=add245a58829fa91adbcc0e33fb61ee35ae00905860614a747d0d3dcf9266f6a
 
 
+
+#EXTINF:-1 tvg-id="3372" group-title="Sports" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000014144/1769290776000217_WorldLegendsProT20League2026_GOB_Landscape_Thumb.jpg?w=1000&q=low",WLPL SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1768551842~exp=1768638242~acl=/*~hmac=add245a58829fa91adbcc0e33fb61ee35ae00905860614a747d0d3dcf9266f6a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1768551842~exp=1768638242~acl=/*~hmac=add245a58829fa91adbcc0e33fb61ee35ae00905860614a747d0d3dcf9266f6a&xxx=%7Ccookie=__hdnea__=st=1768551842~exp=1768638242~acl=/*~hmac=add245a58829fa91adbcc0e33fb61ee35ae00905860614a747d0d3dcf9266f6a
+
+
 #EXTINF:-1 tvg-id="1069" group-title="Education" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png",ZEE TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
