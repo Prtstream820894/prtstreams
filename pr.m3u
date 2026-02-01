@@ -6,10 +6,10 @@
 
 #EXTINF:-1 tvg-id="1109" group-title="Sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,h_1000,w_1200/sources/r1/cms/prod/7311/1768858147311-h",IND VS NZ Sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768551842~exp=1768638242~acl=/*~hmac=add245a58829fa91adbcc0e33fb61ee35ae00905860614a747d0d3dcf9266f6a"}
-https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd?
+https://hssportsprepack.akamaized.net/videos/cricket/1271436592/1540059655/in/hin/v2/avc/1769893028482/hls/plain/master-gCXxacThsOgE5TMZ_full_sd.m3u8?
 
 #EXTINF:-1 tvg-id="1069" group-title="Education" tvg-logo="https://www.wplt20.com/static-assets/waf-images/b8/bb/7b/1-1/ecMOLZyxw0.jpeg?v=50.15&w=1024", WPL SPORTS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
