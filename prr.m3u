@@ -6831,12 +6831,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Swayam_Prabha_21_BTS/output/index.mpd?
 #EXTHTTP:{"cookie":"__hdnea__=st=1771551362~exp=1771637762~acl=/*~hmac=de5706edfa8ee47d8eee8980cd000bafabda135b74bf35b515ec683361bc7c74"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Swayam_Prabha_22_BTS/output/index.mpd?
 
-#EXTINF:-1 tvg-id="999" group-title="Education" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png",Swayam Prabha 18
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=201cf64076dc5a189a66de6ba5079d40:41f096edd73d4fdfbb7e220f5ea5cd74
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1771551362~exp=1771637762~acl=/*~hmac=de5706edfa8ee47d8eee8980cd000bafabda135b74bf35b515ec683361bc7c74"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Swayam_Prabha_18_BTS/output/index.mpd?
+#EXTINF:-1 tvg-id="999" group-title="Education" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png",Swayam Prabha 180
+
+https://vsyshost.ydc1wes.me/hls2/01/00008/6sm3u2q3vebc_,l,h,.urlset/master.m3u8?t=EHbmq2kMyvQrYsHdeYz6KY1SXxcQ1qK5BucXz4-zAhM&s=1771618186&e=21600&f=44839&i=0.0&sp=0|referer=https://speedostream1.com/&origin=https://speedostream1.com?
 
 
 
