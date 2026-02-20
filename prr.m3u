@@ -20,7 +20,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"hdntl=exp=1771598764~acl=*sshindi*~id=223b02442a004854a4ff29dd958c01a8~data=hdntl~hmac=cbc9db04646a809284b99828c70f7e3ac7428da69caf96694aced8fb3879fcd7&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)"}
+#EXTHTTP:{"cookie":"hdntl=exp=1771642023~acl=*sshindi*~id=3570f2db2b77ac0177a43b118e273f58~data=hdntl~hmac=675d891ad60549a5027f7ef74b9319409830e286016b5f8ab754cfcb0d2bdd7b&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)"}
 https://livetv-push.hotstar.com/dash/live/2002466/sshindiwv/master.mpd?
 
 
