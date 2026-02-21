@@ -1,0 +1,27 @@
+[
+  {
+    "type": "hls",
+    "id": "v61u262z92l1",
+    "name": "tussi",
+    "group": "Bollywood Movies",
+    "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",
+  },
+  
+    {
+    "type": "hls",
+    "id": "v61u262z92l1",
+    "name": "tussi",
+    "group": "South Movies",
+    "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",
+  },
+  
+      {
+    "type": "hls",
+    "id": "v61u262z92l1",
+    "name": "tussi",
+    "group": "Hollywood Movies",
+    "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",
+  },
+  
+  
+  ]
