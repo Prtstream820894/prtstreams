@@ -15,6 +15,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mp
 #EXTHTTP:{"cookie":"__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png", Amazon prime hindi ads free sports 
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rxhxc14ikz/out/v1/bb976c39247941f3b4c9fa0a0735426d/cenc.mpd|drmScheme=clearkey&drmLicense=3b1768e88fe20087baaa029ece65cc59:8ab5b1d0808ac9e3811750a0713d114e
+
+
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png",WC -2026 Hindi 3 sport 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
