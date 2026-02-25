@@ -1,6 +1,20 @@
 [
   {
     "type": "hls",
+    "id": "i3bdx8ij43t1",
+    "name": "Emoji (2022) Hindi Dubbed",
+    "group": "South",
+    "logo": "https://pbs.twimg.com/media/FaCNKpRaMAA2mEi.jpg"
+  },
+  {
+    "type": "hls",
+    "id": "8ch6s2cmddug",
+    "name": "Kaa: The Forest (2026)",
+    "group": "South",
+    "logo": "https://m.media-amazon.com/images/M/MV5BZGY5NmYyOTktNWQwNS00NzgyLWI5ZGUtYzQyY2JiODQwYWJiXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg"
+  },
+  {
+    "type": "hls",
     "id": "7a0s0ybqv8fl",
     "name": "O’ Romeo (2026)",
     "group": "Bollywood Movies",
