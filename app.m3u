@@ -23,18 +23,18 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/wwrmho
 
 #EXTINF:-1 tvg-id="sshindi" tvg-name="Star Sports Hindi" group-title="Sports" tvg-logo="https://www.livemint.com/lm-img/img/2025/02/16/optimize/Screenshot_2025-02-14_065533_1739496378365_1739679567317.png", hotstar
 #EXTVLCOPT:http-cookie=hdntl=exp=1771663683~acl=*sshindi*~id=5d6634005420bf815c1fb5794d09a0c1~data=hdntl~hmac=afee3f54a63b29bc78b68495b8c46b6098d670b2f21cb3125f23e9e0e3f4678d
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-origin=https://www.hotstar.com
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTVLCOPT:referrer=https://www.hotstar.com/
+#EXTVLCOPT:origin=https://www.hotstar.com
+#EXTVLCOPT:user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 https://livetv-push.hotstar.com/dash/live/2002466/sshindiwv/master.mpd
 
-#EXTINF:-1 tvg-id="event" tvg-name="Hotstar Event" tvg-logo="https://www.livemint.com/lm-img/img/2025/02/16/optimize/Screenshot_2025-02-14_065533_1739496378365_1739679567317.png" group-title="Live", Event
-#EXTVLCOPT:http-origin=https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+#EXTINF:-1 tvg-id="event" tvg-name="Hotstar Event" tvg-logo="https://www.livemint.com/lm-img/img/2025/02/16/optimize/Screenshot_2025-02-14_065533_1739496378365_1739679567317.png" group-title="Live", Event 1
+#EXTVLCOPT:origin=https://www.hotstar.com
+#EXTVLCOPT:referrer=https://www.hotstar.com/
+#EXTVLCOPT:user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
 #EXTHTTP:{"cookie":"hdntl=exp=1772266690~acl=%2f*~id=43ea15f776326a76b3c3d4f3f386b3f3~data=hdntl~hmac=45aaf35951444987a703d7d0875ce5499796bce89a4855d8a619da7f8a86e0a5"}
 https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
 
