@@ -24,6 +24,19 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/wdqtgx
 #EXTHTTP:{"cookie":"hdntl=exp=1772161806~acl=*sshindi*~id=9cef8f0b09e535b5550842ca8db7024b~data=hdntl~hmac=9d7b4e721c8d92ac1023f6854a05a4879475ca05e40913a53c979201a6053e8d&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)"}
 https://livetv-push.hotstar.com/dash/live/2002466/sshindiwv/master.mpd?
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="sshindi" tvg-name="Star Sports Hindi" group-title="Sports",hotstar
+#EXTVLCOPT:http-cookie=hdntl=exp=1771663683~acl=*sshindi*~id=5d6634005420bf815c1fb5794d09a0c1~data=hdntl~hmac=afee3f54a63b29bc78b68495b8c46b6098d670b2f21cb3125f23e9e0e3f4678d
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://livetv-push.hotstar.com/dash/live/2002466/sshindiwv/master.mpd
+
+
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png",WC -2026 Hindi 2 sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -352,7 +365,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Movies_BTS/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="}
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Plus_BTS/output/index.mpd?
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1117" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png",Suvarna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -464,7 +477,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Plus_HD_BTS/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="}
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd?
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1137" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -548,7 +561,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Gold_2_BTS/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_key=509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="}
-https://jiotvmblive.cdn.jio.com//bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd?
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1159" group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tulja_Bhavani.png",Tulja Bhavani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -899,7 +912,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/HHDL_MOB/WDVLive/index.mpd?
 #KODIPROP:inputstream.adaptive.license_key=cd976004d8345aa0be2034488fc8356f:55de685c871df127cfb17f25b1259421
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="}
-https://jiotvmblive.cdn.jio.com//bpk-tv/Colors_Gujarati_Cinema_BTS/output/index.mpd?
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Gujarati_Cinema_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1325" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
