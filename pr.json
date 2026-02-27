@@ -27,6 +27,32 @@
     "group": "South Movies",
     "logo": "https://m.media-amazon.com/images/S/pv-target-images/dab094c04a1e5c1626dbe0e62ee2f51c952b5b6dbf6c380327b8a86cd5d3f22e.jpg"
   },
+  
+        {
+    "type": "hls",
+    "id": "efm8w8og5czi",
+    "name": "Bekabu (2026) Season 1 Episode 1",
+    "group": "18+",
+    "logo": "https://ingfree.xyz/ib/6zMlW7kd6Q.jpg"
+  },
+  
+  
+      {
+    "type": "hls",
+    "id": "r1900wc7zr6s",
+    "name": "Bekabu (2026) Season 1 Episode 2",
+    "group": "18+",
+    "logo": "https://ingfree.xyz/ib/ZJVFrNsqJ9.jpeg"
+  },
+  
+    {
+    "type": "hls",
+    "id": "1ns8s6pow3st",
+    "name": "Hawas (2026) Season 1 Episode 1",
+    "group": "18+",
+    "logo": "https://m.media-amazon.com/images/M/MV5BYjUyMjcwMGUtZDQ1Mi00YzRiLTgxN2EtMGI0NDgxZjMxOWJiXkEyXkFqcGc@._V1_FMjpg_UY480_.jpg"
+  },
+  
   {
     "type": "hls",
     "id": "or4nrnq5pz4d",
@@ -67,7 +93,61 @@
     "logo": "https://ingfree.xyz/ib/AnzZtuyoas.jpg"
   },
   
-
+      {
+    "type": "hls",
+    "id": "5n4u2ab9zd1i",
+    "name": "Tanmay Apartment (2026) Season 1 Episode 1 ",
+    "group": "18+",
+    "logo": "https://m.media-amazon.com/images/M/MV5BMGU5ZjA4NWMtMTY1NC00NzQwLTlkM2YtZDdlY2MwNzlkMTI1XkEyXkFqcGc@._V1_FMjpg_UY480_.jpg"
+  },
+  
+        {
+    "type": "hls",
+    "id": "hz85nngxtovd",
+    "name": "Tanmay Apartment (2026) Season 1 Episode 2 ",
+    "group": "18+",
+    "logo": "https://m.media-amazon.com/images/M/MV5BMGU5ZjA4NWMtMTY1NC00NzQwLTlkM2YtZDdlY2MwNzlkMTI1XkEyXkFqcGc@._V1_FMjpg_UY480_.jpg"
+  },
+  
+        {
+    "type": "hls",
+    "id": "ontrx7p093a6",
+    "name": "Tanmay Apartment (2026) Season 1 Episode 3 ",
+    "group": "18+",
+    "logo": "https://m.media-amazon.com/images/M/MV5BMGU5ZjA4NWMtMTY1NC00NzQwLTlkM2YtZDdlY2MwNzlkMTI1XkEyXkFqcGc@._V1_FMjpg_UY480_.jpg"
+  },
+  
+        {
+    "type": "hls",
+    "id": "kirzhsmdq5cb",
+    "name": "Tanmay Apartment (2026) Season 1 Episode 4 ",
+    "group": "18+",
+    "logo": "https://m.media-amazon.com/images/M/MV5BMGU5ZjA4NWMtMTY1NC00NzQwLTlkM2YtZDdlY2MwNzlkMTI1XkEyXkFqcGc@._V1_FMjpg_UY480_.jpg"
+  },
+  
+          {
+    "type": "hls",
+    "id": "jx9mivnvj1kt",
+    "name": "Kaamsastra (2026) Season 1 Episode 1  ",
+    "group": "18+",
+    "logo": "https://m.media-amazon.com/images/M/MV5BOTgzMTYxN2YtYmM2My00ODU3LTk0NzMtNzlhYjMwYjU3YTQwXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg"
+  },
+  
+            {
+    "type": "hls",
+    "id": "e1k1kuezdx1a",
+    "name": "Kaamsastra (2026) Season 1 Episode 2  ",
+    "group": "18+",
+    "logo": "https://m.media-amazon.com/images/M/MV5BOTgzMTYxN2YtYmM2My00ODU3LTk0NzMtNzlhYjMwYjU3YTQwXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg"
+  },
+  
+          {
+    "type": "hls",
+    "id": "4qp9djyk2203",
+    "name": "Kaamsastra (2026) Season 1 Episode 3  ",
+    "group": "18+",
+    "logo": "https://m.media-amazon.com/images/M/MV5BOTgzMTYxN2YtYmM2My00ODU3LTk0NzMtNzlhYjMwYjU3YTQwXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg"
+  },
   
   
   {
