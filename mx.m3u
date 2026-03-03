@@ -1,4 +1,12 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Hollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/aed282982e6f4f5471a5088e0fc8f4c4/en/2x3/320x480/test_pic1755066882415.webp",Demi-Gods And Semi-Devils
+https://d3sgzbosmwirao.cloudfront.net/video/b2958710c7bb769a9ea23232d2a279008b746afe40b98819eb339bf22549b5d8/1/hls/h264_high.m3u8
+
+
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f689370a67d56c3f12c3ce8a484950be/en/16x9/640x360/test_pic1766745223409.webp",Thiruchitrambalam
+https://d3s0ximcru5bdx.cloudfront.net/THCHBLM_23-Full-Mezz_UHD-ta-IN-1759640270627/cmaf/H_264/THCHBLM_23-Full-Mezz_UHD-ta-IN/suntv-ST_THCHBLM_23-Full-Mezz_UHD-ta-IN.m3u8
+
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5cdf364f618524cf8b5170f897ff84ee/en/16x9/640x360/test_pic1741151668502_badged_1769403622328.jpg",Section 375
 https://d3sgzbosmwirao.cloudfront.net/video/d237883f8d15bd33fb24bc4b64952b2381f2ebf0ff7681bea108c0ec0606f0cc/2/hls/h264_high.m3u8
 
@@ -132,7 +140,7 @@ https://d3sgzbosmwirao.cloudfront.net/video/a70921f43cb6bf315614d675f5871a7ac62d
 https://d3sgzbosmwirao.cloudfront.net/video/2729fb6a4a98dff0bbd6cc34828ac3e5/1/hls/h264_high.m3u8
 #EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/cc76dfd40c56091fd308b0678ff54648/en/16x9/640x360/f69eff50fe280db95916e3b9308c612d_1920x1080_badged_1734152475408.jpg",Nela Ticket (Hindi Dubbed)
 https://d3sgzbosmwirao.cloudfront.net/video/a8f1f642c213dac18c0507cfef666a11c3fb8dec3fecf67dbdfee082da67e7e5/2/hls/h264_high.m3u8
-#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/77a08d815ad8514bec0da09c883b9616/en/16x9/640x360/a64dc33b28ee84e765da6a799aeef86d_1920x1080.jpg",Sming
+#EXTINF:-1 group-title="Hollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/77a08d815ad8514bec0da09c883b9616/en/16x9/640x360/a64dc33b28ee84e765da6a799aeef86d_1920x1080.jpg",Sming
 https://d3sgzbosmwirao.cloudfront.net/video/24ab9479de7b692da9bc651792b1cf276b0327340eefc2bd31702d1a9caf669f/3/hls/h264_high.m3u8
 #EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a1ee9764948697308f8e4ad84430d38e/en/16x9/640x360/test_pic1741150619853.jpg",Chehre
 https://d3sgzbosmwirao.cloudfront.net/video/3543fc3005cb128dbfd468ef1b39c499970945939f4ec83cc512ec28fba9acdd/3/hls/h264_high.m3u8
