@@ -8,6 +8,27 @@
   },
   {
     "type": "hls",
+    "id": "9r9c2naeujn4",
+    "name": "The Bluff (2026)",
+    "group": "Bollywood Movies",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTxFugz_BToBvxJI2pgNnfqwWIwSEj7mVYMHIYlqJ0NXX7yLbPOrYoP2Cs&s=10"
+  },
+  {
+    "type": "hls",
+    "id": "4pmq6oatc6vo",
+    "name": "Retta Thala (2025)",
+    "group": "South",
+    "logo": "https://m.media-amazon.com/images/M/MV5BYWZjZDMwZDUtYjJkMS00MDJmLWEyZTktMDRkYjYyNGM0YmJlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "type": "hls",
+    "id": "8ht9612nf5gf",
+    "name": "Mana ShankaraVaraprasad Garu (2026)",
+    "group": "South",
+    "logo": "https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/img_698bed4b7735f1.66091327/filmy4wap+wapkizs+com/Mana-ShankaraVaraPrasad-Garu-2026-Hindi-Telugu-Dual-Audio-UnCut-South-Movie-HD-ESub-(filmyfly.cymru).jpg"
+  },
+  {
+    "type": "hls",
     "id": "i3bdx8ij43t1",
     "name": "Emoji (2022) Hindi Dubbed",
     "group": "South",
