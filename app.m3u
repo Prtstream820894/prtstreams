@@ -16,8 +16,6 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/axkmfurjky/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd
 
 
-
-
 #EXTINF:-1 tvg-id="sshindi" tvg-name="Star Sports Hindi" group-title="Sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/6029/1772622426029-h", Hindi jiohotstar 
 #EXTHTTP:{"cookie":"hdntl=exp=1772798041~acl=*sshindi*~id=b54366b48f3e144b2d66fac269a117dc~data=hdntl~hmac=cb0e32bade32f2baef3f7ffe16b56a0d23b5073e5219cdc2be08de1cdfe23e15"}
 #EXTVLCOPT:referrer=https://www.hotstar.com/
