@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/daae57556d2c26ad93b7c8ba24dba4d6/en/16x9/640x360/test_pic1773207926640.webp",Sankalp (2026)
+https://d3sgzbosmwirao.cloudfront.net/video/b2958710c7bb769a9ea23232d2a279008b746afe40b98819eb339bf22549b5d8/1/hls/h264_high.m3u8
+
 #EXTINF:-1 group-title="Hollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/aed282982e6f4f5471a5088e0fc8f4c4/en/2x3/320x480/test_pic1755066882415.webp",Demi-Gods And Semi-Devils
 https://d3sgzbosmwirao.cloudfront.net/video/b2958710c7bb769a9ea23232d2a279008b746afe40b98819eb339bf22549b5d8/1/hls/h264_high.m3u8
 
