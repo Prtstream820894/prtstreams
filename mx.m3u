@@ -1,14 +1,10 @@
-#EXTM3U
+
 #EXTINF:-1 group-title="Hollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/aed282982e6f4f5471a5088e0fc8f4c4/en/2x3/320x480/test_pic1755066882415.webp",Demi-Gods And Semi-Devils
 https://d3sgzbosmwirao.cloudfront.net/video/b2958710c7bb769a9ea23232d2a279008b746afe40b98819eb339bf22549b5d8/1/hls/h264_high.m3u8
-
-
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f689370a67d56c3f12c3ce8a484950be/en/16x9/640x360/test_pic1766745223409.webp",Thiruchitrambalam
 https://d3s0ximcru5bdx.cloudfront.net/THCHBLM_23-Full-Mezz_UHD-ta-IN-1759640270627/cmaf/H_264/THCHBLM_23-Full-Mezz_UHD-ta-IN/suntv-ST_THCHBLM_23-Full-Mezz_UHD-ta-IN.m3u8
-
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5cdf364f618524cf8b5170f897ff84ee/en/16x9/640x360/test_pic1741151668502_badged_1769403622328.jpg",Section 375
 https://d3sgzbosmwirao.cloudfront.net/video/d237883f8d15bd33fb24bc4b64952b2381f2ebf0ff7681bea108c0ec0606f0cc/2/hls/h264_high.m3u8
-
 #EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/cc1f9610b1cc638cf9b60f305ee1b4d6/en/16x9/640x360/test_pic1759756568494_badged_1769403611475.jpg",Jailer
 https://d3sgzbosmwirao.cloudfront.net/video/d213b64bb52693c294545ff1fba4e2a385935f03037ca3c6159747c89003786c/3/hls/h264_high.m3u8
 #EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c2dc7967b20d067c12227043915c9f84/en/16x9/640x360/test_pic1738057912706_badged_1769403616486.jpg",Pushpa: The Rise (Hindi)
@@ -1556,6 +1552,5 @@ https://d3sgzbosmwirao.cloudfront.net/video/21d6d228f78193e98055ad4c74beb33f2065
 https://d3sgzbosmwirao.cloudfront.net/video/c38ddfdd541da0c19a6eda37f66ae3d0752413ff4be4841d7c1e31c060f93652/2/hls/h264_high.m3u8
 #EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/bd95b7384a100998fc5d5ba8f2b68dc5/en/16x9/640x360/test_pic1727189117202.jpg",Perhaps Love
 https://d3sgzbosmwirao.cloudfront.net/video/4a59cb53b0bd8e8fd3ae800adc9c5112a979b7a7fa13435cf61f21963431a3ef/7/hls/h264_high.m3u8
-
 #EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3a34615bd7a3e7b9a3b40d748063fe04/en/16x9/640x360/0763bbd5b42e14df833ec167123e88d5_1920x1080.jpg",Super Shiva (Hindi Dubbed)
 https://d3sgzbosmwirao.cloudfront.net/video/b90c5b0e1a3561c85158b96ecaea59ca/3/hls/h264_high.m3u8
